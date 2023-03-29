@@ -1,1 +1,3 @@
 # Simple-Calculator-for-Android
+
+selamat menginstall, caranya.........
